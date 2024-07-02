@@ -41,5 +41,5 @@ Open the index.html file in your preferred web browser to view the main page and
 
 ## Contact
 
-Author: Increasingly-less
-Project Link: https://github.com/Increasingly-less/odin-recipes/tree/main
+- **Author: Increasingly-less
+- **Project Link: https://github.com/Increasingly-less/odin-recipes/tree/main
